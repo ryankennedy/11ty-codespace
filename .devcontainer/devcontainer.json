@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm install @11ty/eleventy --save-dev",
+	"postCreateCommand": "npm install @11ty/eleventy --save-dev"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
